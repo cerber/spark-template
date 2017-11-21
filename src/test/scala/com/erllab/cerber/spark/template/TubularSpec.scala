@@ -1,4 +1,4 @@
-package com.github.mrpowers.spark.pika
+package com.erllab.cerber.spark.template
 
 import org.scalatest.FunSpec
 
